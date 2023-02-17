@@ -1,4 +1,3 @@
-# krutoi-cars-howroom-1
 <html>
     <head>
             <title>Krutoi car showroom</title>
